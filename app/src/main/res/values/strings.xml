@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MessageApp</string>
+    <string name="message">Message</string>
+    <string name="send">Send</string>
+    <string name="to">To:</string>
+    <string name="date">Date:</string>
+    <string name="messageItem">Message:</string>
+    <string name="toItem">To:</string>
+</resources>
